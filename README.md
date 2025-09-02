@@ -6,7 +6,4 @@ It demonstrates my ability to create user guides, installation manuals, hardware
 ## 📂 Repository Structure
 - `user-guides/` → End-user guides (Markdown, Word, PDF)
 - `api-docs/` → API documentation samples
-- `hardware-docs/` → Hardware installation/removal guides
-
-## 📌 About
-All documents are created as professional samples for interview and portfolio purposes.
+- `hardware-docs/` → Hardware installation/removal guide
